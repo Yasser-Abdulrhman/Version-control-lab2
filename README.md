@@ -2,7 +2,7 @@
 # Foober
 foober is apython library 
 # Installation 
-use the package manager pip to insrall foober
+use the package manager <a href="#">pip</a> to install foober
 >pip install foobar
 # Usage
 >import foober 
