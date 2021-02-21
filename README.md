@@ -1,10 +1,10 @@
 # Version-control-lab2
-#Foober
+# Foober
 foober is apython library 
-#Installation 
+# Installation 
 use the package manager pip to insrall foober
 >pip install foobar
-#Usage
+# Usage
 >import foober 
 
 
